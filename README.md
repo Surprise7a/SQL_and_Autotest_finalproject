@@ -1,4 +1,4 @@
-# SQL_and_Autotest_finalproject
+#Autotest_finalproject
 ##Автоматизация теста к API
 
 ## Описание проекта
